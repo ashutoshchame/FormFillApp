@@ -17,6 +17,10 @@
     <input type="text" placeholder="Enter Adhar" name="adhar" id="adhar" required>
     <br>
 
+    <label for="pan"><b>Pan</b></label>
+    <input type="text" placeholder="Enter Pan" name="pan" id="pan" required>
+    <br>
+	    
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
