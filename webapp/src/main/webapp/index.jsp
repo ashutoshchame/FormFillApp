@@ -14,11 +14,11 @@
     <br> 
 
     <label for="name"><b> Mother Name</b></label>
-    <input type="text" placeholder="Enter Name" name="mother name" id="mother name" required>
+    <input type="text" placeholder="Enter mother name" name="mother name" id="mother name" required>
     <br> 
 
     <label for="name"><b> Father Name</b></label>
-    <input type="text" placeholder="Enter Name" name="father name" id="father name" required>
+    <input type="text" placeholder="Enter father name" name="father name" id="father name" required>
     <br>
 
     <label for="adhar"><b>Adhar </b></label>
