@@ -1,4 +1,7 @@
-<form action="action_page.php">
+<form action="action_page.php"><label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
+
   <div class="container">
     <h1>Saidemy Registration!!</h1>
     <p>Please fill in this form</p>
@@ -7,6 +10,10 @@
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
+
+    <label for="email"><b>Mobile Number</b></label>
+    <input type="text" placeholder="Mobile Number" name="mobile number" id="mobile number" required>
     <br>
 
     <label for="name"><b>Name</b></label>
