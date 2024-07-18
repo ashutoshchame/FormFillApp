@@ -1,6 +1,3 @@
-<form action="action_page.php"><label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
 
   <div class="container">
     <h1>Saidemy Registration!!</h1>
@@ -28,8 +25,8 @@
     <input type="text" placeholder="Enter father name" name="father name" id="father name" required>
     <br>
 
-    <label for="adhar"><b>Adhar </b></label>
-    <input type="text" placeholder="Enter Adhar" name="adhar" id="adhar" required>
+    <label for="aadhar"><b>Aadhar </b></label>
+    <input type="text" placeholder="Enter Aadhar" name="aadhar" id="aadhar" required>
     <br>
 
     <label for="pan"><b>Pan</b></label>
