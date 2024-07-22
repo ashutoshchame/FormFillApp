@@ -21,8 +21,8 @@
     <input type="text" placeholder="Enter mother name" name="mother name" id="mother name" required>
     <br> 
  
-    <label for="name"><b>Pet Name</b></label>
-    <input type="text" placeholder="Enter pet name" name="pet name" id="pet name" required>
+    <label for="name"><b>Pett Name</b></label>
+    <input type="text" placeholder="Enter pett name" name="pett name" id="pett name" required>
     <br>
 
     <label for="name"><b> Father Name</b></label>
