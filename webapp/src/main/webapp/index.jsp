@@ -20,6 +20,10 @@
     <label for="name"><b> Mother Name</b></label>
     <input type="text" placeholder="Enter mother name" name="mother name" id="mother name" required>
     <br> 
+ 
+    <label for="name"><b>Pet Name</b></label>
+    <input type="text" placeholder="Enter pet name" name="pet name" id="pet name" required>
+    <br>
 
     <label for="name"><b> Father Name</b></label>
     <input type="text" placeholder="Enter father name" name="father name" id="father name" required>
