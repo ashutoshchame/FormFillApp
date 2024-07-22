@@ -21,7 +21,7 @@
     <input type="text" placeholder="Enter mother name" name="mother name" id="mother name" required>
     <br> 
  
-    <label for="name"><b>Pett Name</b></label>
+    <label for="pet"><b>Pett Name</b></label>
     <input type="text" placeholder="Enter pett name" name="pett name" id="pett name" required>
     <br>
 
