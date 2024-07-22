@@ -25,6 +25,10 @@
     <input type="text" placeholder="Enter pett name" name="pett name" id="pett name" required>
     <br>
 
+    <label for="name"><b>Partner Name</b></label>
+    <input type="text" placeholder="Enter partner name" name="partner name" id="partner name" required>
+    <br>
+
     <label for="name"><b> Father Name</b></label>
     <input type="text" placeholder="Enter father name" name="father name" id="father name" required>
     <br>
